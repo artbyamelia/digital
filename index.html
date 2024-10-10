@@ -93,14 +93,6 @@ div.ex1 {
 </div>
 <div class="row">
   <div class="leftcolumn">
-  <div class="card">
-      <h2>Cat VS. dog</h2>
-      <h5>Oct 2, 2024</h5>
-      <div class="ex1">
-        <img src="dog-with-cat.jpg" width="50%">
-      </div>
-      <p>Just another afternoon...</p>
-    </div>
     <div class="card">
       <h2>A Discovery #2</h2>
       <h5>Sep 27, 2024</h5>
@@ -116,14 +108,6 @@ div.ex1 {
         <img src="other-cat.jpg" width="50%">
       </div>
       <p>I come in from eating my dinner...and some pussy(cat) is hogging MY human. Couldn't Stevie's human drop her off with some other family while she went on her date??</p>
-    </div>
-    <div class="card">
-      <h2>The Answer</h2>
-      <h5>Sep 3, 2024</h5>
-      <div class="ex1">
-        <img src="cat-tv.jpg" width="50%">
-      </div>
-      <p>What do cats do when their owners aren't at home? We dim the lights, turn on the tv, and watch whatever is on Roku for 5 hours. I'm currently getting into <em>Bridgerton</em> and completing my second full watch of <em>Schitts Creek</em>. Bobbi is a huge fan of <em>Scooby Doo Where are You?</em> and any true crime series.</p>
     </div>
     <div class="card">
       <h2>Sharing is caring</h2>
@@ -202,14 +186,6 @@ div.ex1 {
     </div>
       <p>I just wanted to see what was in this box, how was I supposed it would tip over and spill sand everywhere? Then I remembered I don't have thumbs.</p>
     </div>
-   <div class="card">
-      <h2>Yummy!</h2>
-      <h5>Feb 14, 2024</h5>
-    <div class="ex1">
-      <img src="pb-and-j.jpg" width="50%">
-    </div>
-      <p>Sometimes cat food is just too boring. The stuff my human eats is way better! I think she called it a PB and J? Whatever it is, it's sooooo good! Much better than that dumpling I managed to snatch yesterday.</p>
-    </div>
   <div class="card">
       <h2>Spider Cat</h2>
       <h5>Feb 10, 2024</h5>
@@ -225,14 +201,6 @@ div.ex1 {
       <img src="onyx-belly.jpg" width="50%">
     </div>
       <p> I don't know what's wrong with me, but I feel horrible. Amelia and Marcy took me to my old foster agency then the next thing I know, I get a pinch in my butt and the world goes black. When I finally I wake up, I feel like I was put in a trash compacter. My stomach hurts the worst, like I was punched 500 times! I probably won't be posting for at least a week. I need time to recover from whatever the heck was done to me.</p>
-    </div>
-  <div class="card">
-      <h2>New Toy!</h2>
-      <h5>Jan 12, 2024</h5>
-    <div class="ex1">
-      <img src="cat-paper.jpg" width="50%">
-    </div>
-      <p>Calling all cats out there! I have discovered an amazing and stimulating new toy. It’s this long white fabric that you can pull from the wall and it will never end! I just wish it didn't rip so easily.</p>
     </div>
   <div class="card">
       <h2>New Family</h2>
