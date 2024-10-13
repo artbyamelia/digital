@@ -76,6 +76,15 @@ div.ex1 {
 
 
 }
+div.ex2 {
+    padding: 0%;
+    margin-top: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 1%;
+    font-size: 30px;
+}
 
 
 @media screen and (max-width: 800px) {
@@ -90,6 +99,14 @@ div.ex1 {
 
 <div class="header1">
   <h2>Onyx the Cat</h2>
+  <div class="ex2">
+    <nav>
+        <ul style="text-align: center;">
+            <a href="index.html">Home</a>
+            <a href="blogcontinue.html">Posts</a>
+        </ul>
+    </nav>
+</div>
 </div>
 <div class="row">
   <div class="leftcolumn">
