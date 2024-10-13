@@ -156,8 +156,6 @@ div.ex2 {
       <h3>Popular Posts</h3>
       <div class="ex1">
         <a href="popularpost.html"><img src="pb-and-j.jpg" width="35%">
-        <img src="stretch-cat.jpg" width="30.5%"> 
-        <img src="cat-tongue.jpg" width="30%">
       </div>
     </div>
     <div class="card">
