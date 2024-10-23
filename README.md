@@ -113,22 +113,22 @@ div.ex2 {
     <div class="card">
       <h2>Hello! Nice to meet you!</h2>
     <div class="ex1">
-      <img src="onyx-awake.jpg" width="35%">
+      <img src="photos/onyx-awake.jpg" width="35%">
     </div>
       <p>Hi everyone.  My name is Onyx (like the crystal), I'm a black cat, and I was just adopted by a wonderful human as her therapy cat.  At least that is what she told her parents in order to adopt me!  Did you know that Onyx is said to release negative emotions and past trauma, which allows you to heal and move forward? If that is true, I think my name is fits me to a tee. I was born to a feral cat mom, I don’t really know when, but I was pretty little when I was rescued from the mean streets of Michigan. I was the one in the litter that loved to explore everything around me, like socks, food, toys, and boxes. I was originally living with a foster mom who was a part of a foster agency for cats. I had been living with them for about 8 weeks before my life changed for the absolute best.
       </p>
       <div class="ex1">
-      <img src="cat-with-human.jpg" width="25%">
-      <img src="cat-glasses.jpg" width="25%">
-      <img src="cat-dad.jpg" width="25%">
+      <img src="photos/cat-with-human.jpg" width="25%">
+      <img src="photos/cat-glasses.jpg" width="25%">
+      <img src="photos/cat-dad.jpg" width="25%">
       </div>
       <p>The human who adopted me is named Amelia, and she lives with her parents in a nice house that needs more cat toys. Amelia met me in at a cat yoga event that my foster agency was holding. We just kinda clicked when I crawled up her leg during her downward dog. My foster mom started taking me for weekly visits with Amelia until she eventually let me stay permanently. Amelia has something called aw-tis-m-specter-um disorder. I'm not really sure what that is, but it sounds complicated. Maybe it has something to with her emotional moments and how her brain works. She talks to a woman on her laptop every week about her disorder. But apparently, I help her as well, and I work cheaper and 24/7. Yay for me! 
       </p>
       <p>Because Amelia is also in college, I have a lot of free time to explore my new house. Every day I wake up the nearest human in the house to get me some food. Then I spend the rest of the day napping, grooming myself, and napping again. When my human is at home, I'm typically cuddling her or biting her fingers (don’t worry, she’s ok with it!). But enough about my interests, let's get into how I got here.  In addition to sleeping and eating a girl has to have a few hobbies.  Mine include messing with my 4-legged siblings, turning anything smaller than me into a toy and chasing it around the house, eating my food and everyone else’s, drinking from great big bowls that the humans sit on, and, recently, blogging. I decided to start blogging after I stumbled on Amelia’s laptop while she was asleep. By stumbled on I mean I walked on it, and suddenly there were noises, lights, and words.  It was almost magic! I think my human may be correct – I may be the smartest cat ever!  Alas, a blog was born!
       </p>
       <div class="ex1">
-      <img src="doggos.jpg" width="25%">
-      <img src="bobbi.jpg" width="25%">
+      <img src="photos/doggos.jpg" width="25%">
+      <img src="photos/bobbi.jpg" width="25%">
       </div>
       <p>In this blog post I want to introduce you to the other house inhabitants. As I said, I have both 2 and 4-legged siblings. When I arrived it was like a zoo!   My big sister Bobbi, who's also a cat, was not that happy about my arrival.  She really only wants to cuddle with Amelia’s mom and she really does not like to play with me.   On the other hand, she rarely gets upset when I eat her food.  She never drinks out of the big bowl, which is crazy, but other than that I can live with her. The craziest part of being adopted by Amelia is the crazy doggy big sisters, Penni and Lucy. Penni is a bit older but still has some kick in her and sometimes decides to chase me around the house. Lucy on the other hand is a bit shy with visitors but loves to play when only the family is home. I think she thinks she is the boss, but I know the truth. I am the feline in charge. Of course Amelia is  my favorite housemate. She is always giving me treats, cuddling me, letting me chomp her fingers, and playing with me.
       </p>
@@ -148,14 +148,15 @@ div.ex2 {
     <div class="card">
       <h2>About Me</h2>
       <div class="ex1">
-        <img src="birthday-gift.jpg" width="40%">
+        <img src="photos/birthday-gift.jpg" width="40%">
       </div>
       <p>I'm a black cat who secretly blogs. Don't tell my human!</p>
     </div>
     <div class="card">
       <h3>Popular Posts</h3>
       <div class="ex1">
-        <a href="popularpost.html"><img src="pb-and-j.jpg" width="35%">
+        <a href="popularpost.html"><img src="photos/pb-and-j.jpg" width="35%">
+        </a>
       </div>
     </div>
     <div class="card">
