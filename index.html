@@ -132,7 +132,7 @@ div.ex2 {
       </div>
       <p>In this blog post I want to introduce you to the other house inhabitants. As I said, I have both 2 and 4-legged siblings. When I arrived it was like a zoo!   My big sister Bobbi, who's also a cat, was not that happy about my arrival.  She really only wants to cuddle with Amelia’s mom and she really does not like to play with me.   On the other hand, she rarely gets upset when I eat her food.  She never drinks out of the big bowl, which is crazy, but other than that I can live with her. The craziest part of being adopted by Amelia is the crazy doggy big sisters, Penni and Lucy. Penni is a bit older but still has some kick in her and sometimes decides to chase me around the house. Lucy on the other hand is a bit shy with visitors but loves to play when only the family is home. I think she thinks she is the boss, but I know the truth. I am the feline in charge. Of course Amelia is  my favorite housemate. She is always giving me treats, cuddling me, letting me chomp her fingers, and playing with me.
       </p>
-      <p>If I have a complaint, or two, I think that is okay.  First, I just wish the humans didn't have to leave in the morning and not come back until the afternoon or even later. Sometimes the food bowl is empty for literally hours!  Amelia goes to something called "college" and Marcy goes to a placed called work.  What is work?  Am I not enough work?   I can do better at creating messes if they need me to.
+      <p>If I have a complaint, or two, I think that is okay.  First, I just wish the humans didn't have to leave in the morning and not come back until the afternoon or even later. Sometimes the food bowl is empty for literally hours!  Amelia goes to something called "college" and Marcy goes to a placed called work.  What is work?  Am I not enough work? I can do better at creating messes if they need me to.
       </p>
       <p>Amelia also has two older human sisters, whom I haven't met yet but hear a lot about, mostly in sentences with "med school" and "France". What is France and will I like it?  One of them has cat too, who they say is my cousin, whatever that is. I can't wait to meet them. They just need to remember in this house and I am the new boss.
       </p>
@@ -161,6 +161,11 @@ div.ex2 {
       <h3>Follow Me</h3>
       <li><a href="#">Instagram</a></li>
     </div>
+    <img src="onyx-walking.png" width="80%" style="margin-left: 50px; margin-top: 20px;">
+    <img src="onyx-laying.png" width="90%" style="margin-left: 50px; margin-top: 110px;">
+    <img src="onyx-catching.png" width="80%" style="margin-left: 50px; margin-top: 90px;">
+    <img src="onyx-standing.png" width="35%" style="margin-left: 130px; margin-top: 100px;">
+
   </div>
 </div>
 
