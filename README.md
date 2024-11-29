@@ -13,6 +13,7 @@
 
 body {
   font-family: Arial;
+  font-size: 20px;
   padding: 20px;
   background: #ccccff;
 }
