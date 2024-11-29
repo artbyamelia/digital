@@ -12,7 +12,7 @@
 }
 
 body {
-  font-family: Arial;
+  font-family: Verdana;
   font-size: 20px;
   padding: 20px;
   background: #ccccff;
