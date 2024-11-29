@@ -161,10 +161,10 @@ div.ex2 {
       <h3>Follow Me</h3>
       <li><a href="#">Instagram</a></li>
     </div>
-    <img src="onyx-walking.png" width="80%" style="margin-left: 50px; margin-top: 20px;">
-    <img src="onyx-laying.png" width="90%" style="margin-left: 50px; margin-top: 110px;">
-    <img src="onyx-catching.png" width="80%" style="margin-left: 50px; margin-top: 90px;">
-    <img src="onyx-standing.png" width="35%" style="margin-left: 130px; margin-top: 100px;">
+    <img src="photos/onyx-walking.png" width="80%" style="margin-left: 50px; margin-top: 20px;">
+    <img src="photos/onyx-laying.png" width="90%" style="margin-left: 50px; margin-top: 110px;">
+    <img src="photos/onyx-catching.png" width="80%" style="margin-left: 50px; margin-top: 90px;">
+    <img src="photos/onyx-standing.png" width="35%" style="margin-left: 130px; margin-top: 100px;">
 
   </div>
 </div>
